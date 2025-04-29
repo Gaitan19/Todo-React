@@ -57,8 +57,8 @@ const Login = (props) => {
   return (
     <Form
       customClass={customClass}
-      imageUrl="/logo-smbs.png"
-      imageDescription="logo-smbs"
+      imageUrl="/todo-logo.png"
+      imageDescription="todo-logo"
       onSubmit={handleSubmit}
     >
       <FormTitle
